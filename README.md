@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/77b9b560-883b-4dec-b84f-f2bc654d440e)
+
+![Screenshot 2024-10-08 030524 (1)](https://github.com/user-attachments/assets/101f1eaa-2467-4e46-8948-2b931d0f06c3)
+
 
 <h1>Wood Color Creation Project</h1>
 
