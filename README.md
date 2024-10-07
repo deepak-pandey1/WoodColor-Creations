@@ -31,7 +31,6 @@
 .
 ├── index.html       # Main HTML file
 ├── styles.css       # CSS for styling the chair and background
-└── script.js        # JavaScript for button click functionality
 </code></pre>
 
 <h2>Future Enhancements</h2>
@@ -40,6 +39,3 @@
   <li>Allow users to select specific colors from a color picker.</li>
   <li>Implement saving the chosen design as an image.</li>
 </ul>
-
-<h2>License</h2>
-<p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
