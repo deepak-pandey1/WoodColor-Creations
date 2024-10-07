@@ -15,7 +15,6 @@
 <ul>
   <li><strong>HTML</strong>: For structuring the web page.</li>
   <li><strong>CSS</strong>: For styling the background and chair.</li>
-  <li><strong>JavaScript</strong>: To handle the interactive functionality for color changes.</li>
 </ul>
 
 <h2>How to Use</h2>
